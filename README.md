@@ -10,3 +10,5 @@
 * [EJERCICIOS PYTHON](https://github.com/mayorga09/Mineria_de_Datos/blob/main/EJ_PYTHON_1842201.ipynb)
 
 * [LIMPIEZA DE DATOS](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
+
+* [AVANCE DEL PIA](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
