@@ -15,4 +15,4 @@
 
 - [OPCION 1]
 
--[OPCION 2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
+- [OPCION 2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
