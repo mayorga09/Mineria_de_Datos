@@ -13,6 +13,6 @@
 
 ## [AVANCE DEL PIA]
 
-- [OPCION 1]
+- [OPCION 1](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
 
 - [OPCION 2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
