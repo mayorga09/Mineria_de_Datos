@@ -11,8 +11,10 @@
 
 * [LIMPIEZA DE DATOS](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
 
-## [AVANCE DEL PIA]
+## AVANCE DEL PIA
 
 - [OPCION 1](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
 
 - [OPCION 2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
+
+-[PRESENTACIÓN](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Minería-de-datos/Presentación_SeriesdeTiempo_Equipo4.pdf)
