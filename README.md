@@ -18,3 +18,5 @@
 - [OPCION 2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Avance1_PIA(Op_2)_Equipo4.ipynb)
 
 - [PRESENTACIÓN](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Minería-de-datos/Presentación_SeriesdeTiempo_Equipo4.pdf)
+
+- [CODIGO DE LA PRESENTACIÓN](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Programa_Presentación.ipynb)
