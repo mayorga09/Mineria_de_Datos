@@ -11,7 +11,7 @@
 
 * [LIMPIEZA DE DATOS](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
 
-*[VISUALIZACIÓN DE DATOS](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb)
+* [VISUALIZACIÓN DE DATOS](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb)
 
 ## AVANCE DEL PIA
 
