@@ -11,9 +11,11 @@
 
 * [LIMPIEZA DE DATOS](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
 
-* [VISUALIZACIÓN DE DATOS](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb)
+* [VISUALIZACIÓN DE DATOS BASE 1](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb)
 
-## AVANCE DEL PIA
+* [VISUALIZACIÓN DE DATOS BASE 2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Visualizacion_Base2.ipynb)
+
+## AVANCE DEL PIA 1
 
 - [OPCION 1](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
 
@@ -22,3 +24,7 @@
 - [PRESENTACIÓN](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Minería-de-datos/Presentación_SeriesdeTiempo_Equipo4.pdf)
 
 - [CODIGO DE LA PRESENTACIÓN](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Programa_Presentación.ipynb)
+
+## AVANCE DEL PIA 2
+
+* [AVANCE](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance2_PIA_Equipo4.ipynb)
