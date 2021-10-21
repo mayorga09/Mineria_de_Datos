@@ -29,5 +29,6 @@
 
 * [AVANCE](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance2_PIA_Equipo4.ipynb)
 
-##PIA FINAL
+## PIA FINAL
 * [NOTEBOOK](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Minería-de-datos/PIA_Equipo4.ipynb)
+* [POSTER](https://github.com/normaisabel/Mineria-de-datos/blob/main/P%C3%B3ster.png)
